@@ -8,7 +8,9 @@
 
 ### Languages and Tools:
 <code>
-  <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /> <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /> <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /> \n
+  <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /> <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /> <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>
+<code>
   <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
   <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
   <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
