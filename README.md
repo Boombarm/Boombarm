@@ -18,12 +18,12 @@
   <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> 
   <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
   <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+  <img alt="spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img alt="django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
+  <img alt="flask" width="26px" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
   <img alt="vuejs" width="26px" src="https://img.icons8.com/color/48/240/000000/vue-js.png"/>
   <img alt="angular"  width="26px" src="https://img.icons8.com/color/48/240/000000/angularjs.png"/>
-  <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-  <img alt="django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
-  <img alt="django" width="26px" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
-  
+  <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"/>
 </code>]
 
 [<code>
