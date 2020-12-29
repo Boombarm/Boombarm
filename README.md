@@ -4,7 +4,7 @@
 - Python Developer (Django, Flask)
 - 🌱 I’m currently learning Fullstack, Artificial intelligence and Competitive Programming (problem solving)
 
-## Languages and Tools:
+## Languages and Tools
 [<code>
   <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /> 
   <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /> 
