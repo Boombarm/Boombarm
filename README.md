@@ -2,9 +2,7 @@
 ## I'm a Developer
 - Java Developer (Spring)
 - Python Developer (Django, Flask)
-- Competitive Programming
-
-- 🌱 I’m currently learning Fullstack and Artificial intelligence
+- 🌱 I’m currently learning Fullstack, Artificial intelligence and Competitive Programming (problem solving)
 
 ### Languages and Tools:
 [<code>
