@@ -18,14 +18,14 @@
   <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> 
   <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
   <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/240/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/240/000000/angularjs.png"/>
     <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>]
 [<code>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/50/000000/oracle-logo.png"/>
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/240/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/50/240/000000/oracle-logo.png"/>
+<img src="https://img.icons8.com/ios/50/240/000000/mysql-logo.png"/>
 </code>]
 
 <!--
