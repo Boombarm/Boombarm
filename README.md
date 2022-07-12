@@ -1,4 +1,4 @@
-[<code><img src="https://api.daily.dev/devcards/31e5f22d7f214a9cac4e585c6d543455.png?r=h31" /> </code>]
+[<code><img src="https://api.daily.dev/devcards/31e5f22d7f214a9cac4e585c6d543455.png?r=h31" width="200"/> </code>]
 ### Hi there 👋 , I'm Teerapat Phokhonwong (Boom)
 ## I'm a Developer
 - Java Developer (Spring)
