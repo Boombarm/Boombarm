@@ -10,13 +10,13 @@
 - 🌱 I’m currently learning Fullstack, Artificial intelligence and Competitive Programming (problem solving)
 
 ## Languages and Tools
-[<code>
+[
   <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /> 
   <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /> 
   <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>]
+]
 
-[<code>
+[
   <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
   <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> 
   <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
@@ -27,7 +27,7 @@
   <img alt="vuejs" width="26px" src="https://img.icons8.com/color/48/240/000000/vue-js.png"/>
   <img alt="angular"  width="26px" src="https://img.icons8.com/color/48/240/000000/angularjs.png"/>
   <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"/>
-</code>]
+]
 
 [
 <img  alt="postgreesql" width="26px" src="https://img.icons8.com/color/48/240/000000/postgreesql.png"/>
