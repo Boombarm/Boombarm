@@ -29,11 +29,11 @@
   <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"/>
 </code>]
 
-[<code>
+[
 <img  alt="postgreesql" width="26px" src="https://img.icons8.com/color/48/240/000000/postgreesql.png"/>
 <img  alt="oracle" width="26px" src="https://img.icons8.com/color/50/240/000000/oracle-logo.png"/>
 <img  alt="mysql" width="26px" src="https://img.icons8.com/ios/50/240/000000/mysql-logo.png"/>
-</code>]
+]
 
 <!--
 **Boombarm/Boombarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
