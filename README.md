@@ -10,11 +10,8 @@
 - 🌱 I’m currently learning Fullstack, Artificial intelligence and Competitive Programming (problem solving)
 
 ## Languages and Tools
-[
-  <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /> 
-  <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /> 
-  <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-]
+
+
 
 [
   <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
@@ -34,6 +31,11 @@
 <img  alt="oracle" width="26px" src="https://img.icons8.com/color/50/240/000000/oracle-logo.png"/>
 <img  alt="mysql" width="26px" src="https://img.icons8.com/ios/50/240/000000/mysql-logo.png"/>
 ]
+
+# Tools
+  <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /> 
+  <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /> 
+  <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 
 <!--
 **Boombarm/Boombarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
