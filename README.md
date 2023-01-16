@@ -9,9 +9,7 @@
 - Python Developer (Django, Flask)
 - 🌱 I’m currently learning Fullstack, Artificial intelligence and Competitive Programming (problem solving)
 
-## Languages and Tools
-
-
+## Languages & frameworks
 
 [
   <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
@@ -26,6 +24,7 @@
   <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"/>
 ]
 
+# Database
 [
 <img  alt="postgreesql" width="26px" src="https://img.icons8.com/color/48/240/000000/postgreesql.png"/>
 <img  alt="oracle" width="26px" src="https://img.icons8.com/color/50/240/000000/oracle-logo.png"/>
