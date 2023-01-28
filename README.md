@@ -12,7 +12,6 @@
 ## Languages & frameworks
 
 [
-  <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/java.png">
   <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> 
   <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
   <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
