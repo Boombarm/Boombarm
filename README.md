@@ -4,10 +4,11 @@
 
 
 ### Hi there 👋 , I'm Teerapat Phokhonwong (Boom)
-## I'm a Developer
+## I'm a Fullstack Developer
 - Java Developer (Spring)
-- Python Developer (Django, Flask)
-- 🌱 I’m currently learning Fullstack, Artificial intelligence and Competitive Programming (problem solving)
+- Backend (Django, Flask)
+- Frontend (Vue, Nuxt, Quasar)
+- 🌱 I’m currently learning Artificial intelligence and Competitive Programming (problem solving)
 
 ## Languages & frameworks
 
