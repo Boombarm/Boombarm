@@ -1,5 +1,6 @@
 <code>
 <a href="https://app.daily.dev/teerapat_"><img src="https://api.daily.dev/devcards/31e5f22d7f214a9cac4e585c6d543455.png?r=fr5" width="250" alt="Teerapat Phokhonwong's Dev Card"/></a>
+<a href="https://app.daily.dev/teerapat_"><img src="https://api.daily.dev/devcards/v2/RiYA329ouUi1rzRMQD1LS.png?type=wide&r=5fo" width="652" alt="Teerapat Phokhonwong's Dev Card"/></a>
 </code>
 
 
