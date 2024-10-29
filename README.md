@@ -22,6 +22,7 @@
   <img alt="vuejs" width="26px" src="https://img.icons8.com/color/48/240/000000/vue-js.png"/>
   <img alt="angular"  width="26px" src="https://img.icons8.com/color/48/240/000000/angularjs.png"/>
   <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"/>
+  <img alt="css3" width="26px" src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg"/>
 ]
 
 ## Database
