@@ -6,7 +6,8 @@
 ### Hi there 👋 , I'm Teerapat Phokhonwong (Boom)
 ## I'm a Fullstack Developer
 - Java Developer (Spring)
-- Backend (Django, Flask)
+- Mobile Developer (React Native, Flutter) 
+- Backend (Django, FastAPI, Flask)
 - Frontend (Vue, Nuxt, Quasar)
 - 🌱 I’m currently learning Artificial intelligence and Competitive Programming (problem solving)
 
